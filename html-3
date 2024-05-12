@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Урок 3(Lorem Ipsun - рыба текст)</title>
+</head>
+<body>
+  
+  <!-- 
+  h1{Заголовок 1-го уровня}+p*4>lorem50^h2{Заголовок 2-го уровня}+p*3>lorem40 -->
+  <h1>Заголовок 1-го уровня</h1>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est, optio eius modi culpa pariatur molestiae ut, necessitatibus atque consequatur, iure explicabo odit labore dolorem omnis impedit sunt quod. Ut, ea blanditiis autem dolore dolores quibusdam maxime cumque nihil totam debitis repudiandae, similique enim porro in ducimus ipsa ad! Harum, consequuntur.</p>
+  <p>Nostrum facere saepe odit sunt laudantium possimus provident accusantium numquam modi commodi minima doloribus ullam pariatur architecto, consectetur cumque veniam voluptates facilis eligendi tenetur, repellat beatae. Eum accusantium numquam autem quidem voluptatem, quisquam magnam tenetur reprehenderit provident dolorum qui hic fugit odit possimus quas, quibusdam eaque. Odit, facere pariatur nobis.</p>
+  <p>Mollitia soluta unde optio quia quae ea, aliquid impedit pariatur. Quaerat quia incidunt hic quo, accusamus, at voluptate fugiat earum excepturi suscipit quis deleniti officiis dolor dolorum explicabo voluptatum in placeat optio. Cum animi perspiciatis, aliquid pariatur nobis, adipisci! Impedit illum reiciendis sit dolorum. At nulla omnis repellat, cumque mollitia!</p>
+  <p>Facilis, sequi, eligendi atque laudantium id modi dolor minima quos nisi deserunt libero harum quas tempore corporis minus adipisci necessitatibus, dicta labore dolorem iure doloremque earum recusandae? Quaerat sed voluptatem natus, molestiae, explicabo libero itaque vitae delectus optio aut facilis ea at hic nisi reiciendis aperiam? Magnam cupiditate laborum dolores!</p>
+  <h2>Заголовок 2-го уровня</h2>
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde beatae ex cupiditate eius qui consequuntur, obcaecati nesciunt veritatis maiores consectetur, dolores sed. Quibusdam magnam repudiandae nisi est natus, voluptas omnis!</p>
+  <p>Inventore, eaque officia cum. Excepturi ipsum aspernatur dolorem possimus porro voluptate tenetur eveniet, placeat reiciendis sint id animi quas at officia, eius maiores sapiente similique libero nam amet inventore. Modi.</p>
+  <p>Ipsum ad delectus magni in rem aliquid molestiae sit totam, aut voluptatibus architecto natus similique iste deleniti consequuntur accusamus magnam inventore accusantium necessitatibus praesentium maiores veritatis. Explicabo quaerat placeat facilis.</p>
+   <!--  h1{Заголовок 1-го уровня}+h2{Заголовок 2-го уровня}+p*4>lorem50  -->
+    <h1>Заголовок 1-го уровня</h1>
+    <h2>Заголовок 2-го уровня</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga ullam beatae praesentium cumque, iste recusandae quaerat corporis voluptas vel optio odit maxime, labore officia quod assumenda tempora deserunt amet ratione sequi quis consequuntur. Accusamus saepe, debitis dicta laudantium dolorum est repellendus qui quidem in? Id quod tempora velit eos possimus.</p>
+    <p>Accusamus ex repellendus eveniet laboriosam, doloremque alias delectus ducimus, ratione praesentium officia, velit ipsum molestias pariatur reprehenderit? Provident non, temporibus rerum maxime. Numquam error voluptatum ab, non dolorum laboriosam enim, et ducimus laborum similique fuga possimus. Dolorum ullam debitis sint fuga magnam? Enim est ex, asperiores illum, itaque id corrupti!</p>
+    <p>Quibusdam placeat voluptatibus veritatis dolorem cumque, quia fugiat facere asperiores pariatur, modi. Quod ducimus ex, tempore consequatur aut natus dolores quos reiciendis quia, ipsa iste molestiae quasi eum repudiandae magni quibusdam, sequi voluptas esse aliquam! Error, libero nobis perferendis recusandae adipisci! Asperiores voluptatibus nobis magnam magni pariatur tempore vel quasi.</p>
+    <p>Porro officia unde, quae, eaque, eos aliquam nobis aut reprehenderit, vel dignissimos quia quos maiores similique. Quisquam numquam adipisci, porro omnis voluptates vero quae non ut! Aspernatur veritatis eius quia animi eligendi nostrum amet nulla officia ea commodi? Saepe porro quidem earum delectus eum adipisci enim sunt, aliquid molestiae error.</p>
+</body>
+</html>
